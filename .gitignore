@@ -1,0 +1,5 @@
+.DS_Store
+.env
+*.env
+# large recordings: keep locally, commit only small backups
+recordings/*.mov
